@@ -1,0 +1,31 @@
+--cava
+audio visualizer
+--cmatrix
+matrix screensaver
+--pipes.sh
+pipe screensaver
+--tty-clock
+cool clock display for terminal
+--neovim
+text editor
+config: lazyvim.org
+--firefox
+web browser
+extension: mtab
+--neofetch
+display system information
+--btop
+manage system processes
+--polybar
+display bar
+--nnn
+tui file manager
+--ranger
+tui file manager
+--pywal
+system wallpaper and theme changer
+--Rhythmbox
+mp3 file player
+--oh-my-zsh
+unix shell
+
