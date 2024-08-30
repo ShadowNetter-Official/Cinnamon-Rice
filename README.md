@@ -1,6 +1,11 @@
 # mint-rice
 [Cinnamon] My Linux Mint rice
 
+OS: Linux Mint
+DE: Cinnamon
+WM: Mutter
+
+
 Table of Contents
 -- .config
 -cava configuration
