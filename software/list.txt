@@ -28,4 +28,6 @@ system wallpaper and theme changer
 mp3 file player
 --oh-my-zsh
 unix shell
-
+--rofi
+application selector
+theme: Dark Blue

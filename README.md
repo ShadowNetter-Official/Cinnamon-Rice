@@ -40,7 +40,7 @@ cava
 
 ![polybar](screenshots/polybar.png)
 
-polybar
+polybar + rofi
 
 
 ![firefox](screenshots/firefox.png)
