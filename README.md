@@ -1,5 +1,7 @@
-# mint-rice
+# Linux Mint Cinnamon Rice
 [Cinnamon] My Linux Mint rice
+
+⚠️ this repo was made early on in my linux journey, I don't recommend using this
 
 OS: Linux Mint
 DE: Cinnamon
